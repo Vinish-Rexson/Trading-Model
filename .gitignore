@@ -1,0 +1,6 @@
+/.ipynb_checkpoints
+/config.py
+/debug.log
+/logs
+/token.json
+/__pycache__
